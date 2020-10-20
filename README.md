@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on https://github.com/emmysteven/restaurant
 - 🌱 At the moment, I'm picking up .NET Core 3.1
 - 📃 I blog here: [mycodegist](https://mycodegist.com)
-- 📫 You can reach me: [@emmysteven](https:/twitter.com/emmysteven_)
+- 📫 You can reach me: [@emmysteven_](https:/twitter.com/emmysteven_)
 
 
 
