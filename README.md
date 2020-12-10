@@ -7,6 +7,10 @@
 - 📫 You can reach me: [@emmysteven_](https://twitter.com/emmysteven_)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emmysteven)
-![Github stats](https://github-readme-stats.vercel.app/api?username=emmysteven&theme=vue-dark&show_icons=true&count_private=true)
+<a href="https://github.com/emmysteven/emmysteven">
+	<img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmysteven" />
+</a>
+<a href="https://github.com/emmysteven/emmysteven">
+	<img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=emmysteven&theme=vue-dark&show_icons=true&count_private=true" />
+</a>
 
