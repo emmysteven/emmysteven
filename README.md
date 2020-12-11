@@ -13,3 +13,5 @@
 <a href="https://github.com/emmysteven/emmysteven">
 	<img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" />
 </a>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=emmysteven)
