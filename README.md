@@ -7,7 +7,10 @@
 - 📫 You can reach me: [@emmysteven_](https://twitter.com/emmysteven_)
 
 <a href="https://github.com/emmysteven/emmysteven">
-	<img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a><a href="https://github.com/emmysteven/emmysteven"><img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a>
+	<img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/emmysteven/emmysteven"><img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a>
+
+<br />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=emmysteven)
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
