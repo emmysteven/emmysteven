@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about Clean Architecture, DevOps, Agile, .NET, React, Blazor
+- 💬 Ask me about Clean Architecture, DevOps, Agile, .NET C#, React
 - 🔭 I’m currently working on https://github.com/emmysteven/restaurant
 - 🌱 At the moment, I'm picking up React with TypeScript
 - 📃 I blog here: [mycodegist](https://mycodegist.com)
