@@ -18,6 +18,5 @@
 [![GitHub forks](https://img.shields.io/github/forks/emmysteven/emmysteven.svg)](https://github.com/emmysteven/emmysteven/network)
 [![GitHub issues](https://img.shields.io/github/issues/emmysteven/emmysteven.svg)](https://github.com/emmysteven/emmysteven/issues)
 [![GitHub license](https://img.shields.io/github/license/emmysteven/emmysteven.svg)](https://github.com/emmysteven/emmysteven/blob/main/LICENSE)
-[![Only 32 Kb](https://badge-size.herokuapp.com/emmysteven/emmysteven/main/README.md)](https://github.com/emmysteven/emmysteven/blob/main/README.md)
-[![GitHub stars](https://img.shields.io/github/stars/emmysteven/emmysteven.svg?style=flat&label=Star&maxAge=2592000)](https://github.com/emmysteven/emmysteven/stargazers/)
-
+![GitHub repo size](https://img.shields.io/github/repo-size/emmysteven/emmysteven)
+![GitHub User's stars](https://img.shields.io/github/stars/emmysteven?style=flat)
