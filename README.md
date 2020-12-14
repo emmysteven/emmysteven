@@ -20,3 +20,4 @@
 [![GitHub license](https://img.shields.io/github/license/emmysteven/emmysteven.svg)](https://github.com/emmysteven/emmysteven/blob/main/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/emmysteven/emmysteven)
 ![GitHub User's stars](https://img.shields.io/github/stars/emmysteven?style=flat)
+[![Twitter Follow](https://img.shields.io/twitter/follow/emmysteven_?style=flat&label=follow)](https://twitter.com/emmysteven_)
