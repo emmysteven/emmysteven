@@ -6,11 +6,15 @@
 - 📃 I blog here: [mycodegist](https://mycodegist.com)
 - 📫 You can reach me: [@emmysteven_](https://twitter.com/emmysteven_)
 
+<p align="left">
 <a href="https://github.com/emmysteven/emmysteven">
-	<img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a>
-<a href="https://github.com/emmysteven/emmysteven"><img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a>
+	<img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/emmysteven/emmysteven">
+	<img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" />
+</a>
+</p>
 
-<p></p>
 <p></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=emmysteven)
@@ -20,4 +24,7 @@
 [![GitHub license](https://img.shields.io/github/license/emmysteven/emmysteven.svg)](https://github.com/emmysteven/emmysteven/blob/main/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/emmysteven/emmysteven)
 ![GitHub User's stars](https://img.shields.io/github/stars/emmysteven?style=flat)
-[![Twitter Follow](https://img.shields.io/twitter/follow/emmysteven_?style=flat&label=follow)](https://twitter.com/emmysteven_)
+![GitHub Follow](https://img.shields.io/github/followers/emmysteven?label=followers&logo=GitHub&style=flat)
+[![Twitter Follow](https://img.shields.io/twitter/follow/emmysteven_?style=flat&label=followers&logo=Twitter)](https://twitter.com/emmysteven_)
+
+
