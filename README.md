@@ -8,14 +8,15 @@
 
 <p align="left">
 <a href="https://github.com/emmysteven/emmysteven">
-	<img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" />
+	<img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/emmysteven/emmysteven">
-	<img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" />
+	<img height="186px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&font_size=15" />
 </a>
 </p>
 
 <p></p>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=emmysteven)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/emmysteven/emmysteven/graphs/commit-activity)
