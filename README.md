@@ -8,10 +8,10 @@
 
 <p align="left">
 <a href="https://github.com/emmysteven/emmysteven">
-	<img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" />
+	<img height="235px" src="https://github-readme-stats.vercel.app/api?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/emmysteven/emmysteven">
-	<img height="186px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&font_size=15" />
+	<img height="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmysteven&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" />
 </a>
 </p>
 
