@@ -31,9 +31,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#570](https://github.com/EddieJaoudeCommunity/support/issues/570) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. ❗️ Opened issue [#1](https://github.com/Abiola-Farounbi/Landing-Page/issues/1) in [Abiola-Farounbi/Landing-Page](https://github.com/Abiola-Farounbi/Landing-Page)
-3. ❗️ Opened issue [#2](https://github.com/WebDevSimplified/nodejs-user-permissions/issues/2) in [WebDevSimplified/nodejs-user-permissions](https://github.com/WebDevSimplified/nodejs-user-permissions)
-4. ❗️ Opened issue [#37](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC/issues/37) in [WebDevSimplified/Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC)
-5. ❗️ Closed issue [#1](https://github.com/emmysteven/emmysteven/issues/1) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+1. ❗️ Opened issue [#4](https://github.com/AdioleDivine/nigerian-universities/issues/4) in [AdioleDivine/nigerian-universities](https://github.com/AdioleDivine/nigerian-universities)
+2. 🗣 Commented on [#570](https://github.com/EddieJaoudeCommunity/support/issues/570) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. ❗️ Opened issue [#1](https://github.com/Abiola-Farounbi/Landing-Page/issues/1) in [Abiola-Farounbi/Landing-Page](https://github.com/Abiola-Farounbi/Landing-Page)
+4. ❗️ Opened issue [#2](https://github.com/WebDevSimplified/nodejs-user-permissions/issues/2) in [WebDevSimplified/nodejs-user-permissions](https://github.com/WebDevSimplified/nodejs-user-permissions)
+5. ❗️ Opened issue [#37](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC/issues/37) in [WebDevSimplified/Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC)
 <!--END_SECTION:activity-->
