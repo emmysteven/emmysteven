@@ -38,8 +38,6 @@
 5. ❗️ Opened issue [#37](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC/issues/37) in [WebDevSimplified/Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC)
 <!--END_SECTION:activity-->
 
-<div align="center">
+---
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+#### Show some ❤️ by starring some of the repositories!
