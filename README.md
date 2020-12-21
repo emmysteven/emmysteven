@@ -37,3 +37,9 @@
 4. ❗️ Opened issue [#37](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC/issues/37) in [WebDevSimplified/Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC)
 5. ❗️ Closed issue [#1](https://github.com/emmysteven/emmysteven/issues/1) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
 <!--END_SECTION:activity-->
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
