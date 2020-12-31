@@ -23,8 +23,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=emmysteven)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/emmysteven/emmysteven/graphs/commit-activity)
-[![GitHub forks](https://img.shields.io/github/forks/emmysteven/emmysteven.svg)](https://github.com/emmysteven/emmysteven/network)
-[![GitHub issues](https://img.shields.io/github/issues/emmysteven/emmysteven.svg)](https://github.com/emmysteven/emmysteven/issues)
 [![GitHub license](https://img.shields.io/github/license/emmysteven/emmysteven.svg)](https://github.com/emmysteven/emmysteven/blob/main/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/emmysteven/emmysteven)
 ![GitHub User's stars](https://img.shields.io/github/stars/emmysteven?style=flat)
