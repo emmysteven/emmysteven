@@ -25,6 +25,7 @@
 	<a href="https://gitHub.com/emmysteven/emmysteven/graphs/commit-activity">
 		<img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
 	</a>
+	<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/emmysteven/emmysteven">
 	<a href="https://github.com/emmysteven/emmysteven/blob/main/LICENSE">
 		<img alt="Github license" src="https://img.shields.io/github/license/emmysteven/emmysteven.svg">
 	</a>
