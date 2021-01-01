@@ -31,11 +31,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/emmysteven/emmysteven/issues/6) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
-2. 🗣 Commented on [#6](https://github.com/emmysteven/emmysteven/issues/6) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
-3. ❗️ Opened issue [#6](https://github.com/emmysteven/emmysteven/issues/6) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
-4. ❗️ Closed issue [#6](https://github.com/emmysteven/restaurant/issues/6) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
-5. ❗️ Opened issue [#6](https://github.com/emmysteven/restaurant/issues/6) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
+1. ❗️ Closed issue [#7](https://github.com/emmysteven/emmysteven/issues/7) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+2. 🗣 Commented on [#7](https://github.com/emmysteven/emmysteven/issues/7) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+3. ❗️ Opened issue [#7](https://github.com/emmysteven/emmysteven/issues/7) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+4. ❗️ Closed issue [#30](https://github.com/emmysteven/restaurant/issues/30) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
+5. 🗣 Commented on [#30](https://github.com/emmysteven/restaurant/issues/30) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
 <!--END_SECTION:activity-->
 
 <p></p>
