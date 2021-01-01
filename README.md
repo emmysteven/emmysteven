@@ -20,14 +20,14 @@
 <p></p>
 
 
-
+<div align="center">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=emmysteven)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/emmysteven/emmysteven/graphs/commit-activity)
 [![GitHub license](https://img.shields.io/github/license/emmysteven/emmysteven.svg)](https://github.com/emmysteven/emmysteven/blob/main/LICENSE)
-![GitHub repo size](https://img.shields.io/github/repo-size/emmysteven/emmysteven)
 ![GitHub User's stars](https://img.shields.io/github/stars/emmysteven?style=flat)
 ![GitHub Follow](https://img.shields.io/github/followers/emmysteven?label=followers&logo=GitHub&style=flat)
 [![Twitter Follow](https://img.shields.io/twitter/follow/emmysteven_?style=flat&label=followers&logo=Twitter)](https://twitter.com/emmysteven_)
+</div>
 
 ---
 <!--START_SECTION:activity-->
