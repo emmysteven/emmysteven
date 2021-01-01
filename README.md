@@ -26,6 +26,9 @@
 		<img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
 	</a>
 	<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/emmysteven/emmysteven">
+	<a href="https://github.com/emmysteven/emmysteven/blob/main/LICENSE">
+		<img alt="Github license" src="https://img.shields.io/github/license/emmysteven/emmysteven.svg">
+	</a>
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/emmysteven?style=flat" />
 	<img alt="GitHub Follow" src="https://img.shields.io/github/followers/emmysteven?label=followers&logo=GitHub&style=flat" />
 	<a href="https://twitter.com/emmysteven_">
@@ -35,11 +38,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/emmysteven/emmysteven/issues/6) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
-2. 🗣 Commented on [#6](https://github.com/emmysteven/emmysteven/issues/6) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
-3. ❗️ Opened issue [#6](https://github.com/emmysteven/emmysteven/issues/6) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
-4. ❗️ Closed issue [#6](https://github.com/emmysteven/restaurant/issues/6) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
-5. ❗️ Opened issue [#6](https://github.com/emmysteven/restaurant/issues/6) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
+1. 🎉 Merged PR [#9](https://github.com/emmysteven/emmysteven/pull/9) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+2. ❗️ Closed issue [#8](https://github.com/emmysteven/emmysteven/issues/8) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+3. 💪 Opened PR [#9](https://github.com/emmysteven/emmysteven/pull/9) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+4. ❗️ Opened issue [#8](https://github.com/emmysteven/emmysteven/issues/8) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+5. ❗️ Closed issue [#7](https://github.com/emmysteven/emmysteven/issues/7) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
 <!--END_SECTION:activity-->
 
 <p></p>
