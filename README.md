@@ -35,11 +35,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ApoorvTyagi/ApoorvTyagi/issues/1) in [ApoorvTyagi/ApoorvTyagi](https://github.com/ApoorvTyagi/ApoorvTyagi)
-2. 🎉 Merged PR [#32](https://github.com/emmysteven/restaurant/pull/32) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
-3. ❗️ Closed issue [#31](https://github.com/emmysteven/restaurant/issues/31) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
-4. 💪 Opened PR [#32](https://github.com/emmysteven/restaurant/pull/32) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
-5. ❗️ Opened issue [#31](https://github.com/emmysteven/restaurant/issues/31) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
+1. 🎉 Merged PR [#15](https://github.com/emmysteven/emmysteven/pull/15) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+2. ❗️ Closed issue [#14](https://github.com/emmysteven/emmysteven/issues/14) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+3. 💪 Opened PR [#15](https://github.com/emmysteven/emmysteven/pull/15) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+4. ❗️ Opened issue [#14](https://github.com/emmysteven/emmysteven/issues/14) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+5. 🗣 Commented on [#1](https://github.com/ApoorvTyagi/ApoorvTyagi/issues/1) in [ApoorvTyagi/ApoorvTyagi](https://github.com/ApoorvTyagi/ApoorvTyagi)
 <!--END_SECTION:activity-->
 
 <p></p>
