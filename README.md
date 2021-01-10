@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 💬 Ask me about Clean Architecture, DevOps, Agile, .NET C#, React
-- 🔭 I’m currently working on https://github.com/emmysteven/restaurant
 - 🌱 At the moment, I'm picking up React with TypeScript
+- 🔭 I’m currently working on this project [restaurant](https://github.com/emmysteven/restaurant)
+- 📫 You can reach me: [emmysteven](mailto:hello@emmysteven.com)
 - 📃 I blog here: [mycodegist](https://mycodegist.com)
-- 📫 You can reach me: [@emmysteven_](https://twitter.com/emmysteven_)
 - 😆 Fun Fact: I love YHVH
 - 📄 [Resume](https://github.com/emmysteven/emmysteven/blob/main/docs/resume.pdf)
 
