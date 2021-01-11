@@ -35,11 +35,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/emmysteven/restaurant/pull/39) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
-2. ❗️ Reopened issue [#37](https://github.com/emmysteven/restaurant/issues/37) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
-3. 🎉 Merged PR [#38](https://github.com/emmysteven/restaurant/pull/38) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
-4. ❗️ Closed issue [#37](https://github.com/emmysteven/restaurant/issues/37) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
-5. 💪 Opened PR [#38](https://github.com/emmysteven/restaurant/pull/38) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
+1. 🎉 Merged PR [#18](https://github.com/emmysteven/emmysteven/pull/18) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+2. ❗️ Closed issue [#17](https://github.com/emmysteven/emmysteven/issues/17) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+3. 💪 Opened PR [#18](https://github.com/emmysteven/emmysteven/pull/18) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+4. ❗️ Opened issue [#17](https://github.com/emmysteven/emmysteven/issues/17) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+5. 🎉 Merged PR [#39](https://github.com/emmysteven/restaurant/pull/39) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
 <!--END_SECTION:activity-->
 
 <p></p>
