@@ -35,8 +35,8 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/emmysteven/emmysteven/pull/18) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
-2. ❗️ Closed issue [#17](https://github.com/emmysteven/emmysteven/issues/17) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
+1. ❗️ Closed issue [#24](https://github.com/emmysteven/prayercell/issues/24) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
+2. ❗️ Opened issue [#24](https://github.com/emmysteven/prayercell/issues/24) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
 3. 💪 Opened PR [#18](https://github.com/emmysteven/emmysteven/pull/18) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
 4. ❗️ Opened issue [#17](https://github.com/emmysteven/emmysteven/issues/17) in [emmysteven/emmysteven](https://github.com/emmysteven/emmysteven)
 5. 🎉 Merged PR [#39](https://github.com/emmysteven/restaurant/pull/39) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
