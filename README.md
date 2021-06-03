@@ -35,11 +35,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com/emmysteven/prayercell/issues/25) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
-2. ❗️ Opened issue [#25](https://github.com/emmysteven/prayercell/issues/25) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
-3. ❗️ Closed issue [#24](https://github.com/emmysteven/prayercell/issues/24) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
-4. ❗️ Opened issue [#24](https://github.com/emmysteven/prayercell/issues/24) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
-5. 🎉 Merged PR [#39](https://github.com/emmysteven/restaurant/pull/39) in [emmysteven/restaurant](https://github.com/emmysteven/restaurant)
+1. ❗️ Closed issue [#26](https://github.com/emmysteven/prayercell/issues/26) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
+2. ❗️ Opened issue [#26](https://github.com/emmysteven/prayercell/issues/26) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
+3. ❗️ Closed issue [#25](https://github.com/emmysteven/prayercell/issues/25) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
+4. ❗️ Opened issue [#25](https://github.com/emmysteven/prayercell/issues/25) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
+5. ❗️ Closed issue [#24](https://github.com/emmysteven/prayercell/issues/24) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
 <!--END_SECTION:activity-->
 
 <p></p>
