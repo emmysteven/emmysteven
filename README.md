@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 💬 Ask me about Clean Architecture, DevOps, Java, .NET C#
+- 💬 Ask me about Spring Boot, .NET Core, DevOps & Clean Architecture
 - 🌱 At the moment, I'm picking up Angular
-- 🔭 I’m currently working on this project [restaurant](https://github.com/emmysteven/restaurant)
+- 🔭 I’m currently working on this project [Prayercell](https://github.com/emmysteven/prayercell)
 - 📫 You can reach me: [emmysteven](mailto:hello@emmysteven.com)
-- 📃 I blog here: [mycodegist](https://mycodegist.com)
+- 📃 I blog here: [emmysteven](https://dev.to/emmysteven)
 - 😆 Fun Fact: I love YHVH
 - 📄 [Resume](https://github.com/emmysteven/emmysteven/blob/main/docs/resume.pdf)
 
