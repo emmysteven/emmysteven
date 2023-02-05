@@ -35,11 +35,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#84](https://github.com/emmysteven/prayercell/issues/84) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
-2. ❗️ Opened issue [#84](https://github.com/emmysteven/prayercell/issues/84) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
-3. ❗️ Closed issue [#83](https://github.com/emmysteven/prayercell/issues/83) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
-4. ❗️ Opened issue [#83](https://github.com/emmysteven/prayercell/issues/83) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
-5. ❗️ Closed issue [#82](https://github.com/emmysteven/prayercell/issues/82) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
+1. ❗️ Closed issue [#85](https://github.com/emmysteven/meetona/issues/85) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
+2. ❗️ Opened issue [#85](https://github.com/emmysteven/meetona/issues/85) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
+3. ❗️ Closed issue [#84](https://github.com/emmysteven/prayercell/issues/84) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
+4. ❗️ Opened issue [#84](https://github.com/emmysteven/prayercell/issues/84) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
+5. ❗️ Closed issue [#83](https://github.com/emmysteven/prayercell/issues/83) in [emmysteven/prayercell](https://github.com/emmysteven/prayercell)
 <!--END_SECTION:activity-->
 
 <p></p>
