@@ -35,11 +35,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#89](https://github.com/emmysteven/meetona/issues/89) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
-2. ❗️ Opened issue [#89](https://github.com/emmysteven/meetona/issues/89) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
-3. ❗️ Closed issue [#88](https://github.com/emmysteven/meetona/issues/88) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
-4. ❗️ Opened issue [#88](https://github.com/emmysteven/meetona/issues/88) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
-5. ❗️ Closed issue [#87](https://github.com/emmysteven/meetona/issues/87) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
+1. ❗️ Closed issue [#90](https://github.com/emmysteven/meetona/issues/90) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
+2. ❗️ Opened issue [#90](https://github.com/emmysteven/meetona/issues/90) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
+3. ❗️ Closed issue [#89](https://github.com/emmysteven/meetona/issues/89) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
+4. ❗️ Opened issue [#89](https://github.com/emmysteven/meetona/issues/89) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
+5. ❗️ Closed issue [#88](https://github.com/emmysteven/meetona/issues/88) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
 <!--END_SECTION:activity-->
 
 <p></p>
