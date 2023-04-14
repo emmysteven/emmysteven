@@ -35,11 +35,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#95](https://github.com/emmysteven/meetona/issues/95) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
-2. ❗️ Opened issue [#95](https://github.com/emmysteven/meetona/issues/95) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
-3. ❗️ Closed issue [#7](https://github.com/emmysteven/passcard/issues/7) in [emmysteven/passcard](https://github.com/emmysteven/passcard)
-4. ❗️ Opened issue [#7](https://github.com/emmysteven/passcard/issues/7) in [emmysteven/passcard](https://github.com/emmysteven/passcard)
-5. ❗️ Closed issue [#5](https://github.com/emmysteven/passcard/issues/5) in [emmysteven/passcard](https://github.com/emmysteven/passcard)
+1. ❗️ Opened issue [#96](https://github.com/emmysteven/meetona/issues/96) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
+2. ❗️ Closed issue [#95](https://github.com/emmysteven/meetona/issues/95) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
+3. ❗️ Opened issue [#95](https://github.com/emmysteven/meetona/issues/95) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
+4. ❗️ Closed issue [#7](https://github.com/emmysteven/passcard/issues/7) in [emmysteven/passcard](https://github.com/emmysteven/passcard)
+5. ❗️ Opened issue [#7](https://github.com/emmysteven/passcard/issues/7) in [emmysteven/passcard](https://github.com/emmysteven/passcard)
 <!--END_SECTION:activity-->
 
 <p></p>
