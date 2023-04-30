@@ -35,11 +35,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/emmysteven/checklist/issues/18) in [emmysteven/checklist](https://github.com/emmysteven/checklist)
-2. ❗️ Opened issue [#18](https://github.com/emmysteven/checklist/issues/18) in [emmysteven/checklist](https://github.com/emmysteven/checklist)
-3. ❗️ Opened issue [#96](https://github.com/emmysteven/meetona/issues/96) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
-4. ❗️ Closed issue [#95](https://github.com/emmysteven/meetona/issues/95) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
-5. ❗️ Opened issue [#95](https://github.com/emmysteven/meetona/issues/95) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
+1. 🎉 Merged PR [#7](https://github.com/emmysteven/webui_resta/pull/7) in [emmysteven/webui_resta](https://github.com/emmysteven/webui_resta)
+2. 🎉 Merged PR [#18](https://github.com/emmysteven/webui_resta/pull/18) in [emmysteven/webui_resta](https://github.com/emmysteven/webui_resta)
+3. 🎉 Merged PR [#17](https://github.com/emmysteven/webui_resta/pull/17) in [emmysteven/webui_resta](https://github.com/emmysteven/webui_resta)
+4. 🎉 Merged PR [#19](https://github.com/emmysteven/webui_resta/pull/19) in [emmysteven/webui_resta](https://github.com/emmysteven/webui_resta)
+5. 🎉 Merged PR [#16](https://github.com/emmysteven/webui_resta/pull/16) in [emmysteven/webui_resta](https://github.com/emmysteven/webui_resta)
 <!--END_SECTION:activity-->
 
 <p></p>
