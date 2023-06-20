@@ -2,9 +2,9 @@
 
 - 💬 Ask me about Spring Boot, .NET Core, DevOps & Clean Architecture
 - 🌱 At the moment, I'm picking up Angular
-- 🔭 I’m currently working on this project [Prayercell](https://github.com/emmysteven/prayercell)
+- 🔭 I’m currently working on this project [meetona](https://github.com/emmysteven/meetona)
 - 📫 You can reach me: [emmysteven](mailto:hello@emmysteven.com)
-- 📃 I blog here: [emmysteven](https://dev.to/emmysteven)
+- 📃 I blog here: [codaholic.com](https://codaholic.com)
 - 😆 Fun Fact: I love YHVH
 - 📄 [Resume](https://github.com/emmysteven/emmysteven/blob/main/docs/resume.pdf)
 
@@ -21,7 +21,6 @@
 
 
 <div align="center">
-	<img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=emmysteven" />
 	<a href="https://gitHub.com/emmysteven/emmysteven/graphs/commit-activity">
 		<img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
 	</a>
