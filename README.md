@@ -34,11 +34,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/codaholichq/meetona/pull/16) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
-2. 🔒 Closed issue [#13](https://github.com/codaholichq/meetona/issues/13) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
-3. 🗣 Commented on [#13](https://github.com/codaholichq/meetona/issues/13#issuecomment-1761667073) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
-4. 🔒 Closed issue [#14](https://github.com/emmysteven/meetona/issues/14) in [emmysteven/meetona](https://github.com/emmysteven/meetona)
-5. 🗣 Commented on [#20210](https://github.com/gradle/gradle/issues/20210#issuecomment-1742034717) in [gradle/gradle](https://github.com/gradle/gradle)
+1. 💪 Opened PR [#20](https://github.com/codaholichq/meetona/pull/20) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
+2. 🎉 Merged PR [#18](https://github.com/codaholichq/meetona/pull/18) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
+3. 🎉 Merged PR [#17](https://github.com/codaholichq/meetona/pull/17) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
+4. 💪 Opened PR [#16](https://github.com/codaholichq/meetona/pull/16) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
+5. 🔒 Closed issue [#13](https://github.com/codaholichq/meetona/issues/13) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
 <!--END_SECTION:activity-->
 
 <p></p>
