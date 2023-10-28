@@ -34,11 +34,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/bdougie/variables-in-markdown/pull/9) in [bdougie/variables-in-markdown](https://github.com/bdougie/variables-in-markdown)
-2. 💪 Opened PR [#20](https://github.com/codaholichq/meetona/pull/20) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
-3. 🎉 Merged PR [#18](https://github.com/codaholichq/meetona/pull/18) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
-4. 🎉 Merged PR [#17](https://github.com/codaholichq/meetona/pull/17) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
-5. 💪 Opened PR [#16](https://github.com/codaholichq/meetona/pull/16) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
+1. 🔒 Closed issue [#21](https://github.com/codaholichq/meetona/issues/21) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
+2. ❌ Closed PR [#9](https://github.com/bdougie/variables-in-markdown/pull/9) in [bdougie/variables-in-markdown](https://github.com/bdougie/variables-in-markdown)
+3. 💪 Opened PR [#20](https://github.com/codaholichq/meetona/pull/20) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
+4. 🎉 Merged PR [#18](https://github.com/codaholichq/meetona/pull/18) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
+5. 🎉 Merged PR [#17](https://github.com/codaholichq/meetona/pull/17) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
 <!--END_SECTION:activity-->
 
 <p></p>
