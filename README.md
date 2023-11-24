@@ -34,11 +34,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#26](https://github.com/codaholichq/meetona/issues/26) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
-2. 🔒 Closed issue [#25](https://github.com/codaholichq/meetona/issues/25) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
-3. 🔒 Closed issue [#24](https://github.com/codaholichq/meetona/issues/24) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
-4. 🔒 Closed issue [#23](https://github.com/codaholichq/meetona/issues/23) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
-5. 💪 Opened PR [#1](https://github.com/Banji-07/LibReserve/pull/1) in [Banji-07/LibReserve](https://github.com/Banji-07/LibReserve)
+1. 🔒 Closed issue [#2](https://github.com/codaholichq/codaholic/issues/2) in [codaholichq/codaholic](https://github.com/codaholichq/codaholic)
+2. 🔒 Closed issue [#1](https://github.com/codaholichq/codaholic/issues/1) in [codaholichq/codaholic](https://github.com/codaholichq/codaholic)
+3. 🔒 Closed issue [#26](https://github.com/codaholichq/meetona/issues/26) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
+4. 🔒 Closed issue [#25](https://github.com/codaholichq/meetona/issues/25) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
+5. 🔒 Closed issue [#24](https://github.com/codaholichq/meetona/issues/24) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
 <!--END_SECTION:activity-->
 
 <p></p>
