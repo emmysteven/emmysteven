@@ -34,11 +34,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/codaholichq/data/issues/1) in [codaholichq/data](https://github.com/codaholichq/data)
-2. 🔒 Closed issue [#2](https://github.com/codaholichq/codaholic/issues/2) in [codaholichq/codaholic](https://github.com/codaholichq/codaholic)
-3. 🔒 Closed issue [#1](https://github.com/codaholichq/codaholic/issues/1) in [codaholichq/codaholic](https://github.com/codaholichq/codaholic)
-4. 🔒 Closed issue [#26](https://github.com/codaholichq/meetona/issues/26) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
-5. 🔒 Closed issue [#25](https://github.com/codaholichq/meetona/issues/25) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
+1. 🔒 Closed issue [#1](https://github.com/codaholichq/learn-micronaut/issues/1) in [codaholichq/learn-micronaut](https://github.com/codaholichq/learn-micronaut)
+2. 🔒 Closed issue [#1](https://github.com/codaholichq/data/issues/1) in [codaholichq/data](https://github.com/codaholichq/data)
+3. 🔒 Closed issue [#2](https://github.com/codaholichq/codaholic/issues/2) in [codaholichq/codaholic](https://github.com/codaholichq/codaholic)
+4. 🔒 Closed issue [#1](https://github.com/codaholichq/codaholic/issues/1) in [codaholichq/codaholic](https://github.com/codaholichq/codaholic)
+5. 🔒 Closed issue [#26](https://github.com/codaholichq/meetona/issues/26) in [codaholichq/meetona](https://github.com/codaholichq/meetona)
 <!--END_SECTION:activity-->
 
 <p></p>
