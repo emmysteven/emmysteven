@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 💬 Ask me about Spring Boot, .NET Core, DevOps & Clean Architecture
-- 🌱 At the moment, I'm picking up Angular
-- 🔭 I’m currently working on this project [meetona](https://github.com/emmysteven/meetona)
+- 💬 Ask me about Technical Writing, Documentation Engineering & DocOps
+- 🌱 At the moment, I'm picking up Doc-as-Code
+- 🔭 I’m currently working on [QuizApp](https://github.com/TechExpertConsult/QuizApp) and [Maven Studio](https://github.com/codaholichq/maven-studio)
 - 📫 You can reach me: [emmysteven](mailto:hello@emmysteven.com)
 - 📃 I blog here: [codaholic.com](https://codaholic.com)
 - 😆 Fun Fact: I love YHVH
